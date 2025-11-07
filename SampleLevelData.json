@@ -1,0 +1,140 @@
+{
+  "success": true,
+  "message": "Level data retrieved successfully",
+  "levelData": {
+    "levelId": "troll_tracker_01",
+    "levelTitle": "Calm the Chat! — Troll Tracker",
+    "description": "Help Myra trace the Troll King's secret base by identifying troll messages and responding with kindness",
+    "targetProgress": 100,
+    "correctAnswerPoints": 10,
+    "incorrectAnswerPenalty": -5,
+    "rounds": [
+      {
+        "roundNumber": 1,
+        "roundTitle": "Spot the Troll",
+        "focusArea": "Recognition of insults, mockery, fake joking",
+        "chatMessages": [
+          {
+            "username": "PixiePal",
+            "message": "That drawing is awesome! ❤️",
+            "isTrollMessage": false
+          },
+          {
+            "username": "Shadow123",
+            "message": "lol that's trash 😂",
+            "isTrollMessage": true
+          },
+          {
+            "username": "HeroMax",
+            "message": "You're getting better!",
+            "isTrollMessage": false
+          },
+          {
+            "username": "Shadow123",
+            "message": "Just joking, chill.",
+            "isTrollMessage": true
+          }
+        ],
+        "correctTrollIndex": 1,
+        "calmResponse": {
+          "type": "Calm",
+          "displayText": "Calm the Chat 💧",
+          "progressDelta": 10,
+          "feedbackTip": "Don't feed trolls—stay kind.",
+          "icon": "💧"
+        },
+        "fuelResponse": {
+          "type": "Fuel",
+          "displayText": "Clap Back 🔥",
+          "progressDelta": -5,
+          "feedbackTip": "Arguing makes trolls stronger.",
+          "icon": "🔥"
+        },
+        "supportMessage": "Hey @PixiePal, your art is great! Keep creating!",
+        "supportBonus": 5,
+        "educationalTip": "Trolls want attention. The best response is kindness and support for the target."
+      },
+      {
+        "roundNumber": 2,
+        "roundTitle": "Boundary Time",
+        "focusArea": "Setting calm boundaries",
+        "chatMessages": [
+          {
+            "username": "CoolKid",
+            "message": "Can't wait for the game launch!",
+            "isTrollMessage": false
+          },
+          {
+            "username": "ToxicUser",
+            "message": "You're overreacting.",
+            "isTrollMessage": true
+          },
+          {
+            "username": "GameFan",
+            "message": "Same! It looks amazing!",
+            "isTrollMessage": false
+          }
+        ],
+        "correctTrollIndex": 1,
+        "calmResponse": {
+          "type": "Calm",
+          "displayText": "Set a Boundary 💧",
+          "progressDelta": 10,
+          "feedbackTip": "Clear, calm boundaries shut down trolls.",
+          "icon": "💧"
+        },
+        "fuelResponse": {
+          "type": "Fuel",
+          "displayText": "Shut up loser 🔥",
+          "progressDelta": -5,
+          "feedbackTip": "Name-calling escalates the situation.",
+          "icon": "🔥"
+        },
+        "supportMessage": "That's not okay. Let's keep this chat respectful.",
+        "supportBonus": 5,
+        "educationalTip": "Setting boundaries doesn't mean being mean. Stay firm but kind."
+      },
+      {
+        "roundNumber": 3,
+        "roundTitle": "Upstander Mode",
+        "focusArea": "Support & report",
+        "chatMessages": [
+          {
+            "username": "Supporter",
+            "message": "Great work everyone!",
+            "isTrollMessage": false
+          },
+          {
+            "username": "Bully",
+            "message": "Everyone pile on, lol.",
+            "isTrollMessage": true
+          },
+          {
+            "username": "Player1",
+            "message": "Thanks for the kind words!",
+            "isTrollMessage": false
+          }
+        ],
+        "correctTrollIndex": 1,
+        "calmResponse": {
+          "type": "Calm",
+          "displayText": "Stop & Report 💧",
+          "progressDelta": 10,
+          "feedbackTip": "Supporting others and reporting abuse protects the community.",
+          "icon": "💧"
+        },
+        "fuelResponse": {
+          "type": "Fuel",
+          "displayText": "Join the Pile-On 🔥",
+          "progressDelta": -5,
+          "feedbackTip": "Joining in makes you part of the problem.",
+          "icon": "🔥"
+        },
+        "supportMessage": "Stop, this isn't kind. I'm reporting this behavior.",
+        "supportBonus": 5,
+        "educationalTip": "Upstanders change the culture. Your voice matters."
+      }
+    ]
+  },
+  "errorCode": null
+}
