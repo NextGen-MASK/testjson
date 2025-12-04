@@ -1,0 +1,398 @@
+{
+  "status": true,
+  "message": "Questions retrieved successfully",
+  "data": {
+    "questions": [
+      {
+        "_id": "67890abc1234def567890001",
+        "question_id": "Q000001",
+        "type": "Standard",
+        "week": 1,
+        "mission": "Welcome to MASK HQ & Myra",
+        "question": "What is Myra's main role in MASK?",
+        "options": [
+          "To trick players into sharing passwords",
+          "To guide students in staying safe online",
+          "To challenge students with scams",
+          "To teach only math and science"
+        ],
+        "correct_answer": "To guide students in staying safe online",
+        "createdAt": "2025-12-04T00:00:00.000Z",
+        "updatedAt": "2025-12-04T00:00:00.000Z",
+        "__v": 0
+      },
+      {
+        "_id": "67890abc1234def567890002",
+        "question_id": "Q000002",
+        "type": "TrueFalse",
+        "week": 1,
+        "mission": "Welcome to MASK HQ & Myra",
+        "question": "Felix is the best cat ever. (He says this is true)",
+        "options": [
+          "TRUE",
+          "FALSE"
+        ],
+        "correct_answer": "TRUE",
+        "createdAt": "2025-12-04T00:00:00.000Z",
+        "updatedAt": "2025-12-04T00:00:00.000Z",
+        "__v": 0
+      },
+      {
+        "_id": "67890abc1234def567890003",
+        "question_id": "Q000003",
+        "type": "Scramble",
+        "week": 1,
+        "mission": "Welcome to MASK HQ & Myra",
+        "question": "Which Friend of Myra's is this?",
+        "options": [],
+        "correct_answer": "Alex",
+        "createdAt": "2025-12-04T00:00:00.000Z",
+        "updatedAt": "2025-12-04T00:00:00.000Z",
+        "__v": 0
+      },
+      {
+        "_id": "67890abc1234def567890004",
+        "question_id": "Q000004",
+        "type": "Connect",
+        "week": 1,
+        "mission": "Welcome to MASK HQ & Myra",
+        "question": "Match each friend with their role",
+        "options": [
+          "Myra",
+          "Jaylen",
+          "Alex",
+          "Hero",
+          "Athlete",
+          "Gamer"
+        ],
+        "correct_answer": "Myra -> Hero / Jaylen -> Athlete / Alex -> Gamer",
+        "metadata": {
+          "pairs": [
+            {
+              "Key": "Myra",
+              "Value": "Hero"
+            },
+            {
+              "Key": "Jaylen",
+              "Value": "Athlete"
+            },
+            {
+              "Key": "Alex",
+              "Value": "Gamer"
+            }
+          ]
+        },
+        "createdAt": "2025-12-04T00:00:00.000Z",
+        "updatedAt": "2025-12-04T00:00:00.000Z",
+        "__v": 0
+      },
+      {
+        "_id": "67890abc1234def567890005",
+        "question_id": "Q000005",
+        "type": "Fill",
+        "week": 1,
+        "mission": "Welcome to MASK HQ & Myra",
+        "question": "The name of Myra's cat is _ _ _ _ _",
+        "options": [],
+        "correct_answer": "Felix",
+        "createdAt": "2025-12-04T00:00:00.000Z",
+        "updatedAt": "2025-12-04T00:00:00.000Z",
+        "__v": 0
+      },
+      {
+        "_id": "67890abc1234def567890006",
+        "question_id": "Q000006",
+        "type": "Standard",
+        "week": 1,
+        "mission": "Welcome to MASK HQ & Myra",
+        "question": "What should you do if you see mean behavior online?",
+        "options": [
+          "Ignore it",
+          "Join in",
+          "Report or block it",
+          "Share it for fun"
+        ],
+        "correct_answer": "Report or block it",
+        "createdAt": "2025-12-04T00:00:00.000Z",
+        "updatedAt": "2025-12-04T00:00:00.000Z",
+        "__v": 0
+      },
+      {
+        "_id": "67890abc1234def567890007",
+        "question_id": "Q000007",
+        "type": "Standard",
+        "week": 1,
+        "mission": "Welcome to MASK HQ & Myra",
+        "question": "Which is NOT part of digital citizenship?",
+        "options": [
+          "Protecting privacy",
+          "Being respectful",
+          "Spreading false info",
+          "Following rules"
+        ],
+        "correct_answer": "Spreading false info",
+        "createdAt": "2025-12-04T00:00:00.000Z",
+        "updatedAt": "2025-12-04T00:00:00.000Z",
+        "__v": 0
+      },
+      {
+        "_id": "67890abc1234def567890008",
+        "question_id": "Q000008",
+        "type": "Standard",
+        "week": 1,
+        "mission": "Welcome to MASK HQ & Myra",
+        "question": "Why is respect important online?",
+        "options": [
+          "Because online words affect real people",
+          "Because internet is private",
+          "Because teachers are watching",
+          "Because no rules exist"
+        ],
+        "correct_answer": "Because online words affect real people",
+        "createdAt": "2025-12-04T00:00:00.000Z",
+        "updatedAt": "2025-12-04T00:00:00.000Z",
+        "__v": 0
+      },
+      {
+        "_id": "67890abc1234def567890009",
+        "question_id": "Q000009",
+        "type": "Standard",
+        "week": 1,
+        "mission": "Welcome to MASK HQ & Myra",
+        "question": "What is the first step to becoming a Digital Defender?",
+        "options": [
+          "Learning safe, kind, respectful behavior",
+          "Memorizing villain tricks",
+          "Posting as much content",
+          "Creating fake accounts"
+        ],
+        "correct_answer": "Learning safe, kind, respectful behavior",
+        "createdAt": "2025-12-04T00:00:00.000Z",
+        "updatedAt": "2025-12-04T00:00:00.000Z",
+        "__v": 0
+      },
+      {
+        "_id": "67890abc1234def567890010",
+        "question_id": "Q000010",
+        "type": "Standard",
+        "week": 1,
+        "mission": "Welcome to MASK HQ & Myra",
+        "question": "Online choices can:",
+        "options": [
+          "Only matter if parents watch",
+          "Never affect real life",
+          "Affect both online and real-world reputation",
+          "Always be secret"
+        ],
+        "correct_answer": "Affect both online and real-world reputation",
+        "createdAt": "2025-12-04T00:00:00.000Z",
+        "updatedAt": "2025-12-04T00:00:00.000Z",
+        "__v": 0
+      },
+      {
+        "_id": "67890abc1234def567890011",
+        "question_id": "Q000011",
+        "type": "Standard",
+        "week": 2,
+        "mission": "Strong Password Protectors",
+        "question": "What makes a strong password for your game account?",
+        "options": [
+          "A long passphrase like 'purple-basket-robot-99'",
+          "Your first name and birth year",
+          "The word 'password' with a 1",
+          "Your username backwards"
+        ],
+        "correct_answer": "A long passphrase like 'purple-basket-robot-99'",
+        "createdAt": "2025-12-04T00:00:00.000Z",
+        "updatedAt": "2025-12-04T00:00:00.000Z",
+        "__v": 0
+      },
+      {
+        "_id": "67890abc1234def567890012",
+        "question_id": "Q000012",
+        "type": "Standard",
+        "week": 2,
+        "mission": "Strong Password Protectors",
+        "question": "Why is reusing the same password risky?",
+        "options": [
+          "If one site gets hacked, attackers try it everywhere",
+          "It's easier to remember",
+          "It isn't risky",
+          "Hackers can't guess the same word twice"
+        ],
+        "correct_answer": "If one site gets hacked, attackers try it everywhere",
+        "createdAt": "2025-12-04T00:00:00.000Z",
+        "updatedAt": "2025-12-04T00:00:00.000Z",
+        "__v": 0
+      },
+      {
+        "_id": "67890abc1234def567890013",
+        "question_id": "Q000013",
+        "type": "Standard",
+        "week": 2,
+        "mission": "Strong Password Protectors",
+        "question": "What's the safest place to store many unique passwords?",
+        "options": [
+          "A reputable password manager (a vault)",
+          "A sticky note under your keyboard",
+          "Texting them to a friend",
+          "Saving them in your photo gallery"
+        ],
+        "correct_answer": "A reputable password manager (a vault)",
+        "createdAt": "2025-12-04T00:00:00.000Z",
+        "updatedAt": "2025-12-04T00:00:00.000Z",
+        "__v": 0
+      },
+      {
+        "_id": "67890abc1234def567890014",
+        "question_id": "Q000014",
+        "type": "Standard",
+        "week": 2,
+        "mission": "Strong Password Protectors",
+        "question": "Which is the best example of 2‑factor (2FA) security?",
+        "options": [
+          "A one‑time code sent to your phone/app after you log in",
+          "Typing your password twice",
+          "Answering a silly riddle",
+          "Logging in only on weekends"
+        ],
+        "correct_answer": "A one‑time code sent to your phone/app after you log in",
+        "createdAt": "2025-12-04T00:00:00.000Z",
+        "updatedAt": "2025-12-04T00:00:00.000Z",
+        "__v": 0
+      },
+      {
+        "_id": "67890abc1234def567890015",
+        "question_id": "Q000015",
+        "type": "Standard",
+        "week": 2,
+        "mission": "Strong Password Protectors",
+        "question": "Which security question is the strongest?",
+        "options": [
+          "One with an answer only you know and that isn't online",
+          "What's your favorite color?",
+          "What's your school name?",
+          "What city do you live in?"
+        ],
+        "correct_answer": "One with an answer only you know and that isn't online",
+        "createdAt": "2025-12-04T00:00:00.000Z",
+        "updatedAt": "2025-12-04T00:00:00.000Z",
+        "__v": 0
+      },
+      {
+        "_id": "67890abc1234def567890016",
+        "question_id": "Q000016",
+        "type": "Standard",
+        "week": 2,
+        "mission": "Strong Password Protectors",
+        "question": "What should your master password for a vault be like?",
+        "options": [
+          "Very long, unique, and not used anywhere else",
+          "Short but easy to type fast",
+          "The same as your email password",
+          "Your gamer tag with 123"
+        ],
+        "correct_answer": "Very long, unique, and not used anywhere else",
+        "createdAt": "2025-12-04T00:00:00.000Z",
+        "updatedAt": "2025-12-04T00:00:00.000Z",
+        "__v": 0
+      },
+      {
+        "_id": "67890abc1234def567890017",
+        "question_id": "Q000017",
+        "type": "Standard",
+        "week": 2,
+        "mission": "Strong Password Protectors",
+        "question": "What is 'shoulder surfing'?",
+        "options": [
+          "Someone nearby peeking at your screen/keyboard as you type",
+          "When your backpack is too heavy",
+          "A surfing game online",
+          "Using a shoulder emoji in chat"
+        ],
+        "correct_answer": "Someone nearby peeking at your screen/keyboard as you type",
+        "createdAt": "2025-12-04T00:00:00.000Z",
+        "updatedAt": "2025-12-04T00:00:00.000Z",
+        "__v": 0
+      },
+      {
+        "_id": "67890abc1234def567890018",
+        "question_id": "Q000018",
+        "type": "Standard",
+        "week": 2,
+        "mission": "Strong Password Protectors",
+        "question": "Which password is most secure?",
+        "options": [
+          "Stormrider^28!",
+          "Football2024",
+          "dragon",
+          "ilovecats"
+        ],
+        "correct_answer": "Stormrider^28!",
+        "createdAt": "2025-12-04T00:00:00.000Z",
+        "updatedAt": "2025-12-04T00:00:00.000Z",
+        "__v": 0
+      },
+      {
+        "_id": "67890abc1234def567890019",
+        "question_id": "Q000019",
+        "type": "Standard",
+        "week": 2,
+        "mission": "Strong Password Protectors",
+        "question": "What should you do if a site you use had a data breach?",
+        "options": [
+          "Change your password there and anywhere you reused it",
+          "Do nothing and hope it's fine",
+          "Delete your account right away",
+          "Post about it but keep the same password"
+        ],
+        "correct_answer": "Change your password there and anywhere you reused it",
+        "createdAt": "2025-12-04T00:00:00.000Z",
+        "updatedAt": "2025-12-04T00:00:00.000Z",
+        "__v": 0
+      },
+      {
+        "_id": "67890abc1234def567890020",
+        "question_id": "Q000020",
+        "type": "Standard",
+        "week": 2,
+        "mission": "Strong Password Protectors",
+        "question": "What's a safe way to share a Wi‑Fi password at a friend's house?",
+        "options": [
+          "Ask an adult to type it in for you without saying it out loud",
+          "Yell it across the room so everyone hears",
+          "Text it in a group chat",
+          "Write it on the wall near the router"
+        ],
+        "correct_answer": "Ask an adult to type it in for you without saying it out loud",
+        "createdAt": "2025-12-04T00:00:00.000Z",
+        "updatedAt": "2025-12-04T00:00:00.000Z",
+        "__v": 0
+      },
+      {
+        "_id": "67890abc1234def567890021",
+        "question_id": "Q000021",
+        "type": "Standard",
+        "week": 3,
+        "mission": "Respect Online - Troll King's Challenge",
+        "question": "What is the best first step when a troll tries to provoke you?",
+        "options": [
+          "Don't engage-ignore, block, and report",
+          "Insult them back so they stop",
+          "Share it to get more people involved",
+          "Make a meme about them"
+        ],
+        "correct_answer": "Don't engage-ignore, block, and report",
+        "createdAt": "2025-12-04T00:00:00.000Z",
+        "updatedAt": "2025-12-04T00:00:00.000Z",
+        "__v": 0
+      }
+    ],
+    "pagination": {
+      "total": 21,
+      "page": 1,
+      "limit": 21,
+      "totalPages": 1
+    }
+  }
+}
