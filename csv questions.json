@@ -1882,8 +1882,8 @@
     "D": "",
     "word_to_fill": "",
     "word_to_scramble": "",
-    "left_side": "Special characters → !@#$%",
-    "right_side": "Letters → abcde",
+    "left_side": "Special characters / !@#$%",
+    "right_side": "Letters / abcde",
     "correct_answer": "Special characters → !@#$%; Letters → abcde; Numbers → 1234"
   },
   {
@@ -1899,8 +1899,8 @@
     "D": "",
     "word_to_fill": "",
     "word_to_scramble": "",
-    "left_side": "VPN → Encrypts traffic",
-    "right_side": "2FA → Second step",
+    "left_side": "VPN / Encrypts traffic",
+    "right_side": "2FA / Second step",
     "correct_answer": "VPN → Encrypts traffic; 2FA → Second step; Password Manager → Stores logins"
   },
   {
@@ -1916,8 +1916,8 @@
     "D": "",
     "word_to_fill": "",
     "word_to_scramble": "",
-    "left_side": "Phishing → Fake prize link",
-    "right_side": "Oversharing → Posting address",
+    "left_side": "Phishing / Fake prize link",
+    "right_side": "Oversharing / Posting address",
     "correct_answer": "Phishing → Fake prize link; Oversharing → Posting address; Weak password → 123456"
   },
   {
@@ -1933,8 +1933,8 @@
     "D": "",
     "word_to_fill": "",
     "word_to_scramble": "",
-    "left_side": "Block → No more messages",
-    "right_side": "Report → Notifies platform",
+    "left_side": "Block / No more messages",
+    "right_side": "Report / Notifies platform",
     "correct_answer": "Block → No more messages; Report → Notifies platform; Screenshot → Save proof"
   },
   {
@@ -1950,8 +1950,8 @@
     "D": "",
     "word_to_fill": "",
     "word_to_scramble": "",
-    "left_side": "Private Account → Fewer viewers",
-    "right_side": "Public Account → Anyone can see",
+    "left_side": "Private Account / Fewer viewers",
+    "right_side": "Public Account / Anyone can see",
     "correct_answer": "Private Account → Fewer viewers; Public Account → Anyone can see; Friends Only → Approved followers"
   },
   {
