@@ -1,16 +1,16 @@
 {
-    "Version": "26.02.16.1",
-    "DownloadUrl": "https://game.masknextgen.com/WindowsBuilds/build-26.02.16.1.zip",
+    "Version": "26.02.16.2",
+    "DownloadUrl": "https://game.masknextgen.com/WindowsBuilds/build-26.02.16.2.zip",
     "FileSize": 157286400,
     "Checksum": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6",
     "ReleaseDate": "2025-01-27",
     "Changelog": [
-        "Added new cybersecurity minigame: Troll Tracker",
-        "Improved VR shooting mechanics with haptic feedback",
+        "New Login System",
+        "Save/Load  cloud system",
         "Fixed visual novel dialogue system bugs",
-        "Enhanced WebGL loading performance",
-        "Added Password Pop educational game",
-        "Updated character animations for Myra and Alex"
+        "Updated Puzzle questions",
+        "Advennture module 5 Habit Towwer",
+        "Week 4 Videos"
     ],
     "Modules": [
         {
@@ -19,7 +19,7 @@
             "Required": true
         },
         {
-            "Name": "vr_module",
+            "Name": "ar_module",
             "Version": "1.0.1",
             "Required": false
         },
